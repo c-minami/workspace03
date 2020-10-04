@@ -1,0 +1,2 @@
+# workspace03
+ローカルリポジトリ名：workspace03_リモートリポジトリ名：workspace03
